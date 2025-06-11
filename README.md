@@ -8,4 +8,4 @@ I have learnt a number of things from the use of Excel, SQL, Power Bi and portfo
 ##### Project Overview
 
 ##### Tools Used
-- Ms Excel for Data Cleaning (https://www.microsoft.com/)
+- Ms Excel for Data Cleaning 
